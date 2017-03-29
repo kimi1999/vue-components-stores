@@ -1,6 +1,6 @@
 # vue-components-stores
 
-> A vue store ,which contains a lot of components
+> A vue vuex vue-resource vue-router demo ,which contains a lot of components
 
 ## Build Setup
 
